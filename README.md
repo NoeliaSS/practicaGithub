@@ -1,1 +1,3 @@
-Este es un repositorio de prueba para la clase de git de digital house
+Repositorio de prueba para clase de Digital House
+
+Practicando sobre el repositorio
