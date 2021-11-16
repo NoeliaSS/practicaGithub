@@ -17,14 +17,6 @@ public class ejercicio9 {
 
     }
 
-    public static int contarCaracteres(String cadena, char caracter) {
-        int posicion, contador = 0;
-        posicion = cadena.indexOf(caracter);
-        while (posicion != -1) { 
-            contador++;                                      
-            posicion = cadena.indexOf(caracter, posicion + 1);
-        }
-        return contador;
 }
 
 
